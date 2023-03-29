@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+
+    <title>Componentes Simples</title>
+</head>
+
+<body>
+    <h1>Painéis Deslizanes</h1>
+    <hr>
+    <div class="container my-5">
+        <p>
+            <button class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#painel">Mostrar</button>
+        </p>
+        <div class="collapse" id="painel">
+            <p class="lead">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores laboriosam quam dolorem magnam temporibus ea rem consequuntur deserunt explicabo neque, iure sequi, esse nulla eum laudantium. Voluptatem ipsum ratione quas quod corporis error odio fuga quidem repudiandae aut eius assumenda iusto enim quo ea dicta sapiente eligendi quasi, impedit numquam magnam soluta ducimus officiis? Delectus nobis aliquid repellat maiores, fugit vero quia laborum. Veniam officiis minus doloribus veritatis itaque dicta amet asperiores, aperiam soluta animi quidem eos blanditiis odio accusantium quis molestiae quo tempora nulla. Esse magnam facilis iste, culpa ex totam repudiandae ad. Impedit aspernatur cum saepe repellendus velit?</p>
+        </div>
+        <hr>
+        <ul class="pagination pagination-lg justify-content-center">
+            <li class="page-item active">
+                <a href="#" class="page-link">1</a>
+            </li>
+            <li class="page-item">
+                <a href="#" class="page-link">2</a>
+            </li>
+            <li class="page-item">
+                <a href="#" class="page-link">3</a>
+            </li>
+            <li class="page-item">
+                <a href="#" class="page-link">4</a>
+            </li>
+            <li class="page-item disabled">
+                <a href="#" class="page-link">5</a>
+            </li>
+        </ul>
+        <hr>
+        <div class="progress">
+            <div class="progress-bar w-25 bg-primary">25%</div>
+            <div class="progress-bar w-25 bg-success">25%</div>
+            <div class="progress-bar w-25 bg-warning">25%</div>
+        </div>
+        <hr>
+        <div class="progress" style="height:50px">
+            <div class="progress-bar w-75 bg-warning progress-bar-striped progress-bar-animated">75%</div>
+        </div>
+        <hr>
+        <div class="spinner-grow text-success"></div>
+        <div class="spinner-border text-danger spinner-border-sm"></div>
+        <hr>
+        <nav class="breadcrumb" style="--bs-breadcrumb-divider: ' :: '">
+            <li class="breadcrumb-item">
+                <a href="#">Área Restrita</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="#">Perfil</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="#">Segurança</a>
+            </li>
+        </nav>
+    </div>
+</body>
+
+</html>

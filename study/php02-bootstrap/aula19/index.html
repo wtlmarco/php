@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+
+    <title>Select, Range e Botões</title>
+</head>
+
+<body>
+    <h1>Select, Range e Botões</h1>
+    <hr>
+    <div class="container">
+        <button class="btn btn-primary" data-bs-toggle="button">Botão Marcável</button>
+        <hr>
+        <button class="btn btn-warning">Botão</button>
+        <button class="btn btn-warning" disabled>Botão</button>
+        <hr>
+        <a href="#" class="btn btn-outline-success btn-sm">Link</a>
+        <a href="#" class="btn btn-outline-success">Link</a>
+        <a href="#" class="btn btn-outline-success btn-lg">Link</a>
+    </div>
+    <hr>
+    <div class="container">
+        <div class="mb-3">
+            <label for="faixa" class="form-label">Etapa</label>
+            <input type="range" class="form-range" id="faixa" min="1" max="5" step="1" value="4">
+        </div>
+        <hr>
+        <div class="mb-3">
+            <div class="col-4">
+                <label for="" class="form-label">Opção Desejada</label>
+                <select name="" id="" class="form-select" multiple size="3" disabled>
+                    <option value="">Opção 1</option>
+                    <option value="">Opção 2</option>
+                    <option value="">Opção 3</option>
+                    <option value="">Opção 4</option>
+                    <option value="">Opção 5</option>
+                    <option value="">Opção 6</option>
+                </select>
+            </div>
+        </div>
+        <hr>
+        <div class="mb-3">
+            <div class="col-4">
+                <label for="" class="form-label">Opção Desejada</label>
+                <select name="" id="" class="form-select form-select-lg">
+                    <option value="">Opção 1</option>
+                    <option value="">Opção 2</option>
+                    <option value="">Opção 3</option>
+                    <option value="">Opção 4</option>
+                    <option value="">Opção 5</option>
+                    <option value="">Opção 6</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

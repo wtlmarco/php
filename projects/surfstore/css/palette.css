@@ -1,0 +1,56 @@
+/* Background Colors */
+
+.palette-bg-primary{
+    background-color:#3FA9F5;
+}
+
+.palette-bg-primary-variant{
+    background-color:#004CA3;
+}
+
+.palette-bg-complementary{
+    background-color:#F58B3F;
+}
+
+.palette-bg-complementary-variant{
+    background-color:#FFDC58;
+}
+
+.palette-bg-triadic{
+    background-color:#8A0064;
+}
+
+.palette-bg-light{
+    background-color:#FFFFFF;
+}
+
+/* Text Colors */
+.palette-text-body-light{
+    color:#FFFFFF;
+}
+
+.palette-text-body{
+    color:#000000;
+}
+
+.palette-text-error{
+    color:#BB0000;
+}
+
+.palette-text-title{
+    color:#3FA9F5;
+}
+
+.palette-text-subtitle{
+    color:#8A0064;
+}
+
+.palette-text-accent{
+    color:#F58B3F;
+}
+
+/* Border Colors */
+.palette-border-primary{
+    border-color:#3FA9F5 !important;
+}
+

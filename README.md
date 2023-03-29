@@ -31,6 +31,9 @@
   <li>
     <a href="https://github.com/wtlmarco/php/tree/main/study/php01-crud-bootstrap-mysql">CRUD - Bootstrap e MySQL</a>  
   </li>
+  <li>
+    <a href="https://github.com/wtlmarco/php/tree/main/study/php02-bootstrap">Using Bootstrap V5</a>  
+  </li>
 </ul>
 
 <p align="right">(<a href="#readme-top">topo</a>)</p>
@@ -47,7 +50,12 @@
 <h3>
   <a name="readme-projects">Projetos</a>
 </h3>
-:construction:  Em construção  :construction:
+<ul>
+  <li>
+    <a href="https://github.com/wtlmarco/php/tree/main/projects/surfstore">Surf Store</a>
+    :construction:  Em construção  :construction:
+  </li>
+</ul>
 
 <p align="right">(<a href="#readme-top">topo</a>)</p>
 

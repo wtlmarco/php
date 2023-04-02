@@ -29,7 +29,21 @@
 </h3>
 <ul>
   <li>
-    <a href="https://github.com/wtlmarco/php/tree/main/study/php01-crud-bootstrap-mysql">CRUD - Bootstrap e MySQL</a>  
+    <a href="https://github.com/wtlmarco/php/tree/main/study/php01-crud-bootstrap-mysql">CRUD - Bootstrap e MySQL</a>
+    :triangular_flag_on_post:
+  </li>
+  <li>
+    <a href="https://github.com/wtlmarco/php/tree/main/study/php02-bootstrap">Using Bootstrap V5</a>
+    :triangular_flag_on_post:
+  </li>
+  <li>
+    <a href="#">CRUD - Laravel</a>
+   :construction: Em preparação  :construction:
+  </li>
+  
+  <li>
+    <a href="#">CRUD - CodeIgniter</a>
+   :compass: Planejado  :compass:
   </li>
 </ul>
 
@@ -39,7 +53,7 @@
 <h3>
   <a name="readme-components">Componentes</a>
 </h3>
-:construction:  Em construção  :construction:
+ :compass: Planejado  :compass:
 
 <p align="right">(<a href="#readme-top">topo</a>)</p>
 
@@ -47,7 +61,12 @@
 <h3>
   <a name="readme-projects">Projetos</a>
 </h3>
-:construction:  Em construção  :construction:
+<ul>
+  <li>
+    <a href="https://github.com/wtlmarco/php/tree/main/projects/surfstore">Surf Store</a>
+    :rocket:  Em construção  :rocket:
+  </li>
+</ul>
 
 <p align="right">(<a href="#readme-top">topo</a>)</p>
 

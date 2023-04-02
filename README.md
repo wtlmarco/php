@@ -33,10 +33,6 @@
     :triangular_flag_on_post:
   </li>
   <li>
-    <a href="https://github.com/wtlmarco/php/tree/main/study/php02-bootstrap">Using Bootstrap V5</a>
-    :triangular_flag_on_post:
-  </li>
-  <li>
     <a href="#">CRUD - Laravel</a>
    :construction: Em preparação  :construction:
   </li>
@@ -61,12 +57,7 @@
 <h3>
   <a name="readme-projects">Projetos</a>
 </h3>
-<ul>
-  <li>
-    <a href="https://github.com/wtlmarco/php/tree/main/projects/surfstore">Surf Store</a>
-    :rocket:  Em construção  :rocket:
-  </li>
-</ul>
+ :compass: Planejado  :compass:
 
 <p align="right">(<a href="#readme-top">topo</a>)</p>
 
